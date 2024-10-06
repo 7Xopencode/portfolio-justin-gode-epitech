@@ -1,6 +1,7 @@
 {
   "private": true,
-  "name": "masterPortfolio",
+  "homepages": "git@github.com:7Xopencode.github.io/portfolio-justin-gode-epitech",
+  "name": "portfolio-justin-gode-epitech",
   "version": "0.1.0",
   "homepage": ".",
   "scripts": {
